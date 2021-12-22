@@ -92,3 +92,25 @@ Con las imágenes podemos escribir entre corchetes un nombre que queramos asigna
 
 
 
+## Código
+
+
+
+Podemos escribir código `en línea` haciendo uso del símbolo **`**, y para bloques de código el texto de se debe encerrar entre tres de estos caracteres, y luego de los tres caracteres de apertura podemos indicar el lenguaje para que se cree una clase con la que podremos darle estilos con CSS:
+
+
+
+```javascript
+let target = True
+
+for (var i = 0; i < 10; i++) {
+    console.log(i)
+}
+```
+
+
+
+``````html
+<h1>Ejemplo de encabezado</h1>
+``````
+
