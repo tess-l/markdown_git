@@ -133,3 +133,16 @@ Para el texto tachado usamos el símbolo **~**, ~~de esta manera~~ encerrando el
 
 
 Para el texto <u>subrayado</u>, podemos usar la etiqueta **u** como en **HTML**.
+
+
+
+## Citas
+
+
+
+Se hace uso del símbolo **>**.
+
+
+
+> Cita de ejemplo.
+
