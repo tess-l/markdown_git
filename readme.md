@@ -114,3 +114,22 @@ for (var i = 0; i < 10; i++) {
 <h1>Ejemplo de encabezado</h1>
 ``````
 
+
+
+## Formato de texto
+
+
+
+Podemos crear negritas, itálicas, o combinación de estas con el símbolo *****, encerrando con uno para *itálica* y dos para **negrita**.
+
+
+
+Para el texto tachado usamos el símbolo **~**, ~~de esta manera~~ encerrando el texto en dos de estos.
+
+
+
+<!-- Comentario -->
+
+
+
+Para el texto <u>subrayado</u>, podemos usar la etiqueta **u** como en **HTML**.
