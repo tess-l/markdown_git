@@ -17,7 +17,7 @@
 
 
 
-```
+```markdown
 We can just add text to create a paragraph.
 ```
 
@@ -27,7 +27,7 @@ We can just add text to create a paragraph.
 
 
 
-```
+```markdown
 * Not ordered list
 * Item 2
     * Sub-item 1
@@ -40,4 +40,24 @@ We can just add text to create a paragraph.
         1. Sub-item 2
 3. Item 3
 ```
+
+
+
+## Images
+
+
+```markdown
+![Alternative text](https://picsum.photos/100)
+```
+
+
+
+## Links
+
+
+
+```markdown
+[EDteam](https://ed.team)
+```
+
 
