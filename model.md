@@ -18,6 +18,26 @@
 
 
 ```
-We can just add text to cre
+We can just add text to create a paragraph.
+```
+
+
+
+## Lists
+
+
+
+```
+* Not ordered list
+* Item 2
+    * Sub-item 1
+        * Sub-item 2
+* Item 3
+
+1. Ordered list
+2. Item 2
+    1. Sub-item 1
+        1. Sub-item 2
+3. Item 3
 ```
 
