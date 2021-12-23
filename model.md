@@ -46,6 +46,7 @@ We can just add text to create a paragraph.
 ## Images
 
 
+
 ```markdown
 ![Alternative text](https://picsum.photos/100)
 ```
@@ -58,6 +59,48 @@ We can just add text to create a paragraph.
 
 ```markdown
 [EDteam](https://ed.team)
+```
+
+
+
+## Reference to images and links
+
+
+
+If we have several links that lead to the same site we can make a reference (preferably at the end of the document) to those links:
+
+```markdown
+> Quote that has links to [Google], to visit [Google].
+
+
+<!-- Reference -->
+
+[Google]: https://www.google.com
+```
+
+
+
+For images we can do the same, replacing the URL with a word that we would like to use to make the reference, replacing the parenthesis with brackets: 
+
+```markdown
+![Alternative text][referenceToImage]
+
+
+<!-- Reference -->
+
+[referenceToImage]: https://picsum.photos/150/
+```
+
+
+
+## Comments
+
+
+
+```markdown
+
+<!-- This is a comment -->
+
 ```
 
 
