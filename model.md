@@ -41,6 +41,8 @@ We can just add text to create a paragraph.
 3. Item 3
 ```
 
+> Note: for unordered lists we could use the symbols: *, -, +. And for ordered lists we can use numbers or the alphabet.
+
 
 
 ## Images
@@ -103,4 +105,17 @@ For images we can do the same, replacing the URL with a word that we would like 
 
 ```
 
+
+
+## Text format
+
+
+
+```markdown
+We can create **bold** text and *italic*.
+
+For strikethrough text we enclose the ~~text~~ using the ~ symbol. 
+
+And for underlined text we use <u>the u tag</u> to enclose the text.
+```
 
