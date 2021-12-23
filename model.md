@@ -18,7 +18,10 @@
 
 
 ```markdown
-We can just add text to create a paragraph.
+We can just add text to create a paragraph,
+using the intro/enter key we can do a line break.
+
+By doing two line breaks we can leave the current element, this includes paragraphs, quotes, code blocks, etc.
 ```
 
 
