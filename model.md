@@ -171,19 +171,13 @@ _ _ _
 
 
 
-We could write line code or code block by using the \` symbol.
+We could write line code or code block by using the backtick symbol (\`). To format code or text into its own distinct block, use triple backticks to enclose the text.
 
 ```markdown
-Here we will add a \`line code\` and now we will see a block code where we will need to use the \` symbol three times to enclose the code.
-
-\`\`\`javascript
-let target = True
-
-for (var i = 0; i < 10; i++) {
-    console.log(i)
-}
-\`\`\`
+Here we will add a `line code`.
 ```
 
-> Note: as we can see above, we can specify the language we are going to type on the code block so Markdown is going to create a class for us to manipulate it later, such as adding styles.
+> Note: for the examples we used to show the syntax, we have used the triple backticks so we can creat a distinct block.
+
+When writing a code block, we can specify the language by adding the name of the language after the first tripe backticks. Markdown is going to create a class so we can manipulate it later, such as adding styles.
 
