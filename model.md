@@ -155,3 +155,35 @@ _ _ _
 
 > Note: we could also add a blank space between them just for aesthetic as shown above.
 
+
+
+## Quotes
+
+
+
+```markdown
+> We can create a quote by using the '>' symbol.
+```
+
+
+
+## Code
+
+
+
+We could write line code or code block by using the \` symbol.
+
+```markdown
+Here we will add a \`line code\` and now we will see a block code where we will need to use the \` symbol three times to enclose the code.
+
+\`\`\`javascript
+let target = True
+
+for (var i = 0; i < 10; i++) {
+    console.log(i)
+}
+\`\`\`
+```
+
+> Note: as we can see above, we can specify the language we are going to type on the code block so Markdown is going to create a class for us to manipulate it later, such as adding styles.
+
