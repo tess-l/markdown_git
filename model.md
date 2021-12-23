@@ -171,7 +171,7 @@ _ _ _
 
 
 
-We could write line code or code block by using the backtick symbol (\`). To format code or text into its own distinct block, use triple backticks to enclose the text.
+We could write line code or code block by using the backtick symbol ( \` ). To format code or text into its own distinct block, use triple backticks to enclose the text.
 
 ```markdown
 Here we will add a `line code`.
