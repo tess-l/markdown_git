@@ -146,3 +146,15 @@ Se hace uso del símbolo **>**.
 
 > Cita de ejemplo.
 
+
+
+## Tablas
+
+
+
+| Lenguajes de programación | Precio | Lecciones |
+| :-----------------------: | -----: | :-------- |
+|          Python           | $20.00 | 24        |
+|            Go             | $15.00 | 17        |
+|            PHP            | $13.00 | 15        |
+
