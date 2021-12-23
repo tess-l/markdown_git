@@ -64,7 +64,14 @@ By doing two line breaks we can leave the current element, this includes paragra
 
 ```markdown
 [EDteam](https://ed.team)
+
+
+<!-- Automatic links -->
+
+<https:www.google.com>
 ```
+
+> Note: we could use the automatic links when we would like to show the URL directly.
 
 
 
@@ -121,4 +128,30 @@ For strikethrough text we enclose the ~~text~~ using the ~ symbol.
 
 And for underlined text we use <u>the u tag</u> to enclose the text.
 ```
+
+
+
+## Horizontal row
+
+
+
+To create a horizontal row, we could use three times one of the following symbols: *, -, _
+
+```markdown
+
+***
+
+* * *
+
+---
+
+- - -
+
+___
+
+_ _ _
+
+```
+
+> Note: we could also add a blank space between them just for aesthetic as shown above.
 
