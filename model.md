@@ -129,6 +129,8 @@ For strikethrough text we enclose the ~~text~~ using the ~ symbol.
 And for underlined text we use <u>the u tag</u> to enclose the text.
 ```
 
+> Note: we could also use the underscore symbol instead of asterisk for bold and italic text.
+
 
 
 ## Horizontal row
@@ -177,7 +179,7 @@ We could write line code or code block by using the backtick symbol ( \` ). To f
 Here we will add a `line code`.
 ```
 
-> Note: for the examples we used to show the syntax, we have used the triple backticks so we can creat a distinct block.
+> Note: for the examples we used to show the syntax, we have used the triple backticks so we can create a distinct block.
 
 When writing a code block, we can specify the language by adding the name of the language after the first tripe backticks. Markdown is going to create a class so we can manipulate it later, such as adding styles.
 
