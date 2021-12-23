@@ -165,6 +165,12 @@ _ _ _
 
 ```markdown
 > We can create a quote by using the '>' symbol.
+
+You could also have nested quotes  by adding more '>' symbols:
+
+> Hello!
+>> Nested quote!
+
 ```
 
 
