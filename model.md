@@ -189,3 +189,34 @@ Here we will add a `line code`.
 
 When writing a code block, we can specify the language by adding the name of the language after the first tripe backticks. Markdown is going to create a class so we can manipulate it later, such as adding styles.
 
+
+
+## Tables
+
+We can create the columns by separating the text using the `|` symbol, and we should create a main structure so Markdown will know we are making a table and not plain text.
+
+```markdown
+| Programming languages | Price  | Lessons |
+| --------------------- | ------ | ------- |
+| Python                | $20.00 | 24      |
+| Go                    | $15.00 | 17      |
+```
+
+That would be the way to create a table, we can add as many rows as we need and the columns don't need to be aligned, but we could add as many `-` as we want for aesthetic.
+
+The main structure or the way Markdown recognizes that it is a table is the following, and without it it will not be displayed as a table.
+
+```markdown
+| --- | --- |
+```
+
+Remember we can add as many columns as we want and we could also align the text by using the `:` symbol by adding it at the beggining or the end of the `-` symbols of the structure.
+
+```markdown
+| Programming languages | Price  | Lessons |
+| :-------------------: | -----: | :------ |
+| Python                | $20.00 | 24      |
+| Go                    | $15.00 | 17      |
+```
+
+Above we can see how to align the text to the center, right or left accordingly.
